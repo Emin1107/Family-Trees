@@ -3,7 +3,8 @@
 #include <string.h>
 #include <limits.h>
 #include <stdbool.h>
-#include "assignment.h"
+
+#include "main.h"
 #include "utility.h"
 #include "tree.h"
 #include "filehelper.h"
